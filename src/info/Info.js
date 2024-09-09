@@ -30,7 +30,7 @@ export const info = {
     firstName: "Ravi",
     lastName: "Liyanaarachchi",
     initials: "RL", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Mechatronics Engineer",
+    position: "a Graduate Mechatronics Engineer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -72,7 +72,9 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hey there! I'm Ravi. I'm a Mechatronic Engineering (Hons) and Medical Science Student about to finish my degree! I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hi there! I am a final year student studying a Bachelor of Engineering in Mechatronics (Honours) and Bachelor of Medical Science. I am passionate about the potential of robotics to revolutionize the medical field.", 
+    bio1: "My journey has been fuelled by a deep curiosity about how advanced engineering can improve patient outcomes, streamline medical procedures, and push the boundaries of what’s possible in healthcare.", 
+    bio2: "From designing precise robotic systems to exploring cutting-edge medical technologies, I am committed to merging these fields to create solutions that are both innovative and impactful. Whether it's developing assistive devices, enhancing surgical precision, or advancing medical research, my mission is to contribute to a future where robotics plays a vital role in improving lives.",
     skills:
         {
             proficientWith: ['C++', 'SOLIDWORKS (+PDM)', 'ROS', 'MATLAB', '3D Printing', 'github', 'Arudino', 'Microsoft Office Suite'],
@@ -101,34 +103,33 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
+            title: "Robotic Arm Simulation",
+            videoUrl: "https://www.youtube.com/embed/N-AElEZzVfw?si=rQ4h2w2qI21-VoeD",
+            source: "", // this should be a link to the **repository** of the project, where the code is hosted.
+            // image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock2
+            title: "Dobot Control and Grasping",
+            videoUrl: "https://www.youtube.com/embed/w4Vg-aoBjok",
+            // image: mock2
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock3
+            title: "Warman Design & Build Competition",
+            source: "",
+            videoUrl: "",
+            // image: mock3
         },
-        {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock4
-        },
-        {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
-        }
+        // {
+        //     title: "Project 4",
+        //     live: "https://paytonpierce.dev",
+        //     source: "https://github.com/paytonjewell",
+        //     image: mock4
+        // },
+        // {
+        //     title: "Project 5",
+        //     live: "https://paytonpierce.dev",
+        //     source: "https://github.com/paytonjewell",
+        //     image: mock5
+        // }
     ]
 }
