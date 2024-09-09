@@ -101,6 +101,9 @@ export const info = {
 // Same as above, change the emojis to match / relate to your hobbies or interests.
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
+
+    cvLink: "",
+
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Robotic Arm Simulation",
