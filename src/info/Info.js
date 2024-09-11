@@ -18,7 +18,7 @@ the site.
 /* 
 This variable will change the layout of the website from multipage to single, scrollable page
 */
-export let singlePage = false;
+export let singlePage = true;
 
 /*
 So let's get started! Some of the info below is pretty self-explanatory, like 'firstName' and 'bio'. I'll try to explain anything
@@ -36,12 +36,12 @@ export const info = {
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '☕',
-            text: 'fueled by coffee'
+            emoji: '🧠',
+            text: 'fueled by curiosity'
         },
         {
             emoji: '🌎',
-            text: 'based in the Sydney, AU'
+            text: 'based in Sydney, AU'
         },
         {
             emoji: "💼",
@@ -49,7 +49,7 @@ export const info = {
         },
         {
             emoji: "📧",
-            text: "ravindra.2000@hotmail.com"
+            text: "ravi@rav.engineering"
         }
     ],
     socials: [
@@ -102,7 +102,7 @@ export const info = {
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
 
-    cvLink: "",
+    cvLink: "https://github.com/itsRav34/itsrav34.github.io/raw/master/src/img/20240908%20CV%20Ravindra%20Liyanaarachchi.pdf",
 
     portfolio: [ // This is where your portfolio projects will be detailed
         {
