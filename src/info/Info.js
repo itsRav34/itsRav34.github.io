@@ -1,9 +1,9 @@
 import self from "../img/self.png"
-import mock1 from "../img/mock1.png"
-import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
+// import mock1 from "../img/mock1.png"
+// import mock2 from "../img/mock2.png"
+// import mock3 from "../img/mock3.png"
+// import mock4 from "../img/mock4.png"
+// import mock5 from "../img/mock5.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -77,13 +77,13 @@ export const info = {
     bio2: "From designing precise robotic systems to exploring cutting-edge medical technologies, I am committed to merging these fields to create solutions that are both innovative and impactful. Whether it's developing assistive devices, enhancing surgical precision, or advancing medical research, my mission is to contribute to a future where robotics plays a vital role in improving lives.",
     skills:
         {
-            proficientWith: ['C++', 'SOLIDWORKS (+PDM)', 'ROS', 'MATLAB', '3D Printing', 'github', 'Arudino', 'Microsoft Office Suite'],
-            exposedTo: ['Fusion 360', 'python', 'Adobe Suite', 'Mathematica']
+            proficientWith: ['C++', 'SOLIDWORKS (+PDM)', 'ROS', 'MATLAB', '3D Printing', 'Github', 'Arudino', 'Microsoft Office Suite'],
+            exposedTo: ['Fusion 360', 'Python', 'Adobe Suite', 'Mathematica', "Intel FPGA"]
         }
     ,
     hobbies: [
         {
-            label: 'reading',
+            label: 'Reading',
             emoji: '📖'
         },
         {
@@ -91,7 +91,7 @@ export const info = {
             emoji: '🏋️‍♂️'
         },
         {
-            label: 'PC Gaming',
+            label: 'Gaming',
             emoji: '🖱️'
         },
         {
@@ -122,6 +122,16 @@ export const info = {
             videoUrl: "",
             // image: mock3
         },
+        {
+            title: "ROS Autonomous Car",
+        },
+        {
+            title: "ROS Autonomous Drone",
+        },
+        {
+            title: "Wind Powered Vehicle",
+        }
+
         // {
         //     title: "Project 4",
         //     live: "https://paytonpierce.dev",
