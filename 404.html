@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>404 - Page Not Found</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #131313;
+      font-family: 'Montserrat', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      color: #ffffff;
+      overflow: hidden;
+    }
+
+    .container {
+      text-align: center;
+      padding: 20px;
+      animation: float 6s ease-in-out infinite;
+    }
+
+    h1 {
+      font-size: 8rem;
+      font-weight: 600;
+      color: #ff3860;
+      letter-spacing: 5px;
+    }
+
+    h2 {
+      font-size: 2rem;
+      margin-top: -20px;
+      font-weight: 300;
+      color: #ffffff;
+    }
+
+    p {
+      font-size: 1.2rem;
+      margin-top: 20px;
+      line-height: 1.5;
+    }
+
+    .glow {
+      color: #ff3860;
+      text-shadow: 0 0 8px rgba(255, 56, 96, 0.5), 0 0 20px rgba(255, 56, 96, 0.5), 0 0 40px rgba(255, 56, 96, 0.5);
+    }
+
+    .back-home {
+      margin-top: 30px;
+      padding: 10px 20px;
+      background: #ff3860;
+      color: white;
+      border-radius: 25px;
+      text-decoration: none;
+      font-size: 1.2rem;
+      transition: all 0.3s ease-in-out;
+    }
+
+    .back-home:hover {
+      background: #ff5f79;
+      box-shadow: 0px 4px 20px rgba(255, 56, 96, 0.3);
+      transform: translateY(-3px);
+    }
+
+    .space {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background: url('https://i.imgur.com/k8gjfdb.png') no-repeat center center/cover;
+      opacity: 0.1;
+    }
+
+    @keyframes float {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-20px);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="space"></div>
+  <div class="container">
+    <h1 class="glow">404</h1>
+    <h2>Oops! Page not found.</h2>
+    <p>It looks like you've ventured into uncharted territory.<br>Let’s get you back on track.</p>
+    <a href="/" class="back-home">Back to Home</a>
+  </div>
+</body>
+</html>
