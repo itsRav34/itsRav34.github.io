@@ -29,6 +29,16 @@ export default function Reflections({innerRef}) {
             <p>
             This project broadened my understanding of the complexities involved in sustainable engineering, particularly when dealing with heavy products that impose strict performance requirements on packaging. It underscored the need for a holistic approach in design, where sustainability is not an afterthought but a core consideration from the beginning. Balancing environmental responsibility with practical functionality and cost-efficiency is essential to developing solutions that are both viable and sustainable in the long term. This experience has not only enhanced my knowledge of sustainable material selection but also deepened my appreciation for the broader challenges of implementing sustainable practices within the engineering field.
             </p>
+
+            <p>
+            Dowling, D., Hadgraft, R., Carew, A., McCarthy, T., & Hargreaves, D. (2016). Engineering your future: An Australasian guide. Wiley.
+            </p>
+            <p>
+            Ashby, M. F. (2012). Materials and the environment: Eco-informed material choice (2nd ed.). Butterworth-Heinemann.
+            </p>
+            <p>
+            Lewis, H., & Gertsakis, J. (2001). Design + environment: A global guide to designing greener goods. Greenleaf Publishing.
+            </p>
             <p>previous versions:</p>
             <a href={info.ref1_rev1} target="_blank" rel="noopener noreferrer">
                     Sustainable_Reflection_REV1
@@ -60,6 +70,15 @@ export default function Reflections({innerRef}) {
             </p>
             <p>
             previous versions:
+            </p>
+            <p>
+            Bennett, M. J. (1993). Towards a developmental model of intercultural sensitivity. In R. M. Paige (Ed.), *Education for the intercultural experience* (pp. 21-71). Intercultural Press.
+            </p>
+            <p>
+            Fang, T. (2006). Negotiation in the Chinese cultural context: A theoretical perspective. *International Journal of Cross Cultural Management, 6*(2), 197-212. https://doi.org/10.1177/1470595806068417
+            </p>
+            <p>
+            Hofstede, G. (2001). *Culture's consequences: Comparing values, behaviors, institutions, and organizations across nations* (2nd ed.). Sage Publications.
             </p>
             <p>
                 <a href={info.ref2_rev1} target="_blank" rel="noopener noreferrer">
