@@ -53,11 +53,11 @@ export const info = {
         }
     ],
     socials: [
-        {
-            link: "https://www.facebook.com/ravi.liyanaarachchi/",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
+        // {
+        //     link: "https://www.facebook.com/ravi.liyanaarachchi/",
+        //     icon: 'fa fa-facebook',
+        //     label: 'facebook'
+        // },
         {
             link: "https://github.com/itsRav34",
             icon: "fa fa-github",
@@ -72,7 +72,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hi there! I am a final year student studying a Bachelor of Engineering in Mechatronics (Honours) and Bachelor of Medical Science. I am passionate about the potential of robotics to revolutionize the medical field.", 
+    bio: "Hi there! I am a final year student studying a B(Hons) Engineering in Mechatronics and Bachelor of Medical Science. I am passionate about the potential of robotics to revolutionize the medical field.", 
     bio1: "My journey has been fuelled by a deep curiosity about how advanced engineering can improve patient outcomes, streamline medical procedures, and push the boundaries of what’s possible in healthcare.", 
     bio2: "From designing precise robotic systems to exploring cutting-edge medical technologies, I am committed to merging these fields to create solutions that are both innovative and impactful. Whether it's developing assistive devices, enhancing surgical precision, or advancing medical research, my mission is to contribute to a future where robotics plays a vital role in improving lives.",
     skills:
@@ -103,8 +103,22 @@ export const info = {
     ],
 
     cvLink: "https://github.com/itsRav34/itsrav34.github.io/raw/master/src/img/20240908%20CV%20Ravindra%20Liyanaarachchi.pdf",
+    coverLetterLink: "",
+
+    ref1_rev1: "",
+    ref1_rev2: "",
+
+    ref2_rev1: "",
+    ref2_rev2: "",
+
 
     portfolio: [ // This is where your portfolio projects will be detailed
+        {
+            title: "ROS Autonomous Car",
+        },
+        {
+            title: "ROS Autonomous Drone",
+        },
         {
             title: "Robotic Arm Simulation",
             videoUrl: "https://www.youtube.com/embed/N-AElEZzVfw?si=rQ4h2w2qI21-VoeD",
@@ -117,16 +131,10 @@ export const info = {
             // image: mock2
         },
         {
-            title: "Warman Design & Build Competition",
+            title: "Warman Design & Build Competition 2020",
             source: "",
             videoUrl: "",
             // image: mock3
-        },
-        {
-            title: "ROS Autonomous Car",
-        },
-        {
-            title: "ROS Autonomous Drone",
         },
         {
             title: "Wind Powered Vehicle",
