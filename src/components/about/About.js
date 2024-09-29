@@ -65,6 +65,14 @@ export default function About({innerRef}) {
                     Click here to download my Cover Letter
                 </a>
             </p>
+            <p>
+            Previous version:
+            </p>
+            <p>
+            <a href={info.coverLetter_rev1} target="_blank" rel="noopener noreferrer">
+                    Cover_letter_rev1
+                </a>
+            </p>
         </>
     }
 

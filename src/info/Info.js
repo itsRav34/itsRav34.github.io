@@ -4,6 +4,7 @@ import self from "../img/self.png"
 // import mock3 from "../img/mock3.png"
 // import mock4 from "../img/mock4.png"
 // import mock5 from "../img/mock5.png"
+import defaultImage from "../img/defaultImage.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -115,10 +116,10 @@ export const info = {
 
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "ROS Autonomous Car",
+            title: "ROS Autonomous Car (WIP)",
         },
         {
-            title: "ROS Autonomous Drone",
+            title: "ROS Autonomous Drone (WIP)",
         },
         {
             title: "Robotic Arm Simulation",
@@ -132,13 +133,13 @@ export const info = {
             // image: mock2
         },
         {
-            title: "Warman Design & Build Competition 2020",
+            title: "Warman Design & Build Competition 2020 (WIP)",
             source: "",
             videoUrl: "",
             // image: mock3
         },
         {
-            title: "Wind Powered Vehicle",
+            title: "Wind Powered Vehicle (WIP)",
         }
 
         // {
