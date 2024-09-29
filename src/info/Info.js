@@ -105,8 +105,8 @@ export const info = {
     cvLink: "https://github.com/itsRav34/itsrav34.github.io/raw/master/src/img/20240908%20CV%20Ravindra%20Liyanaarachchi.pdf",
     coverLetterLink: "",
 
-    ref1_rev1: "",
-    ref1_rev2: "",
+    ref1_rev1: "https://github.com/itsRav34/itsrav34.github.io/raw/master/src/img/ref1_rev1.pdf",
+    ref1_rev2: "https://github.com/itsRav34/itsrav34.github.io/raw/master/src/img/ref1_rev2.pdf",
 
     ref2_rev1: "",
     ref2_rev2: "",

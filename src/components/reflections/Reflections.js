@@ -46,7 +46,17 @@ export default function Reflections({innerRef}) {
                 className={Style.green}>(main)</span> $ </span>
                 {"ls"}
             </p>
-            <p>{"hello"}
+            <p>
+            During my time at the University of Technology Sydney, I was part of a group project for my Mechatronic Engineering course, where we collaborated with international students from different cultural backgrounds. The task was to design a robotic system that could sort objects based on colour using image processing techniques. The group included students from various countries, including China, India, and Germany, and we all brought different perspectives and work styles to the project. This provided an opportunity to work in an intercultural and global context.
+            </p>
+            <p>
+            Our objective was to complete the project while ensuring smooth collaboration across cultural boundaries. We had to navigate differences in communication styles, work ethics, and technical knowledge. A key challenge was establishing a productive workflow that incorporated everyone's input and ideas, while also meeting project deadlines and quality expectations. As one of the team members with prior experience in leading teams, I took the responsibility of facilitating communication and ensuring that all voices were heard.
+            </p>
+            <p>
+            To address these challenges, I adopted several strategies to foster an inclusive and productive environment. First, I initiated regular team meetings and encouraged open discussions about how each member preferred to work. This helped to establish mutual respect and understanding, which was particularly important when reconciling different approaches to problem-solving. I also set up a shared project management platform (Asana) where team members could track tasks and contribute asynchronously, which was crucial given the time zone differences between us. Additionally, I made a conscious effort to recognise and leverage the strengths of each team member, assigning tasks based on their unique skills and expertise. This allowed us to maximise the contributions of everyone in the group.
+            </p>
+            <p>
+            As a result of these efforts, our project was completed successfully, and we achieved a high grade. More importantly, the experience taught me valuable lessons about working in intercultural and global contexts. I learned how to navigate cultural differences in a professional setting, develop cultural sensitivity, and adapt my communication style to ensure clarity and collaboration. This project also highlighted the importance of flexibility and open-mindedness when working in diverse teams, skills that will be invaluable in my future career in engineering, particularly as I aim to work in global companies.
             </p>
             <p>
             previous versions:
