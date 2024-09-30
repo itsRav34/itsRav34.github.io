@@ -75,7 +75,7 @@ export default function Reflections({innerRef}) {
             Bennett, M. J. (1993). Towards a developmental model of intercultural sensitivity. In R. M. Paige (Ed.), *Education for the intercultural experience* (pp. 21-71). Intercultural Press.
             </p>
             <p>
-            Fang, T. (2006). Negotiation in the Chinese cultural context: A theoretical perspective. *International Journal of Cross Cultural Management, 6*(2), 197-212. https://doi.org/10.1177/1470595806068417
+            Fang, T. (2016). Negotiation in the Chinese cultural context: A theoretical perspective. *International Journal of Cross Cultural Management, 6*(2), 197-212.
             </p>
             <p>
             Hofstede, G. (2001). *Culture's consequences: Comparing values, behaviors, institutions, and organizations across nations* (2nd ed.). Sage Publications.
